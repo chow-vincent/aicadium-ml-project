@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+statsmodels
+seaborn
+numpy
+scipy
+matplotlib
+sklearn
+openpyxl # for reading in xlsx files
